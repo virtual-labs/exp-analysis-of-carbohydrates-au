@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  What will be the reaction product of Xylose undergoing Bial’s test ?",
+      "answers": {
+        "a": "Blue colour condensation product",
+        "b": "Bluish green colour condensation product",
+        "c": "A muddy brown colour precipitate",
+        "d": "Cherry red colouration"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.  What is the  role of sulphuric acid in Molisch’s test ?",
+      "answers": {
+        "a": "Reducing agent",
+        "b": "Oxidant",
+        "c": "Colour production",
+        "d": "Dehydrating agent"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. If a sample being tested gives a positive result for Benedict’s test and Fehling's test, then what will the sample be ?",
+      "answers": {
+        "a": "Reducing sugar",
+        "b": "Non-reducing sugar",
+        "c": "Monosaccharide",
+        "d": "Disaccharide"
+      },
+          
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Which test distinguishes between pentoses and hexoses ?",
+        "answers": {
+          "a": "Barfoed’s test",
+          "b": "Sackaguchi test",
+          "c": "Seliwanoff’s test",
+          "d": "Bial’s test"
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
