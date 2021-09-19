@@ -121,7 +121,7 @@ To 0.5 g of phenylhydrazine hydrochloride add 0.1 gram of sodium acetate and ten
 
 In an actual laboratory setting, there are certain important steps that are not necessarily applicable in a virtual lab:
  
-1.	 Always wear lab coat and gloves when you are in the lab. When you enter the lab,switch on the exhaust fan  and make sure that all the reagents required for the experiment are  available. If it is not available, prepare the reagents using the components for reagent preparation.
+1. Always wear lab coat and gloves when you are in the lab. When you enter the lab,switch on the exhaust fan  and make sure that all the reagents required for the experiment are  available. If it is not available, prepare the reagents using the components for reagent preparation.
 
 2.	Care should be taken while handling caustic acids like Conc. Sulphuric acid [H2SO4], nitric acid [HNO3], Hydrochloric acid [HCl]. These acids should be opened and used in FUMEHOOD only. Accidental spill of these acids will cause severe burns and itching. Wash the spilled area with cold water and inform the lab assistant immediately.
 
