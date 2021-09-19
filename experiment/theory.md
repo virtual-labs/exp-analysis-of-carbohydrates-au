@@ -1,3 +1,4 @@
+
 ### Theory:
 
 Carbohydrates are polyhydroxy aldehydes and ketones or substances that hydrolyze to yield polyhydroxy aldehydes and ketones.  Aldehydes (–CHO) and ketones ( = CO) constitute the major groups in carbohydrates.
@@ -109,3 +110,4 @@ This test is used for the detection of starch in the solution. The blue-black co
  
 
 The ketoses and aldoses react with phenylhydrazine to produce a phenylhydrazone which further reacts with another two molecules of phenylhydrazine to yield osazone. Needle-shaped yellow osazone crystals are produced by glucose, fructose and mannose, whereas lactosazone produces mushroom shaped crystals. Crystals of different shapes will be shown by different osazones. Flower-shaped crystals are produced by maltose.
+
