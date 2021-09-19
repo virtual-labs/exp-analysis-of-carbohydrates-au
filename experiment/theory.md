@@ -1,4 +1,4 @@
-## Theory:
+### Theory:
 
 Carbohydrates are polyhydroxy aldehydes and ketones or substances that hydrolyze to yield polyhydroxy aldehydes and ketones.  Aldehydes (–CHO) and ketones ( = CO) constitute the major groups in carbohydrates.
 
@@ -17,7 +17,7 @@ Carbohydrates are mainly divided into monosaccharides,  disaccharides and polysa
 
  
 
-### Molisch’s Test:
+#### Molisch’s Test:
 
  
 
@@ -37,7 +37,7 @@ b: α-Naphthol
 
  &nbsp;
  
- ### Fehling’s Test:
+ #### Fehling’s Test:
 
  
 
@@ -47,7 +47,7 @@ This forms the reduction test of carbohydrates.  Fehling’s solution contains b
  &nbsp;
  
 
-### Benedict’s Test:
+#### Benedict’s Test:
 
  
 
@@ -60,7 +60,7 @@ This forms the reduction test of carbohydrates.  Fehling’s solution contains b
  
  &nbsp;
 
-### Barfoed’s Test:
+#### Barfoed’s Test:
 
  
 
@@ -71,7 +71,7 @@ This forms the reduction test of carbohydrates.  Fehling’s solution contains b
  
  &nbsp;
 
-### Seliwanoff’s Test:
+#### Seliwanoff’s Test:
 
  
 
@@ -84,7 +84,7 @@ It is a color reaction specific for ketoses. When conce: HCl is added. ketoses u
   &nbsp;
 
 
-### Bial’s Test:
+#### Bial’s Test:
 
  
 
@@ -93,7 +93,7 @@ It is a color reaction specific for ketoses. When conce: HCl is added. ketoses u
  
  &nbsp;
 
-### Iodine Test:
+#### Iodine Test:
 
  
 
@@ -104,7 +104,7 @@ This test is used for the detection of starch in the solution. The blue-black co
  
  &nbsp;
 
- ### Osazone Test:
+ #### Osazone Test:
 
  
 
